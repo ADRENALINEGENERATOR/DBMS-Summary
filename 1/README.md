@@ -1,6 +1,6 @@
 # 물리적 관점에서 저장장치 및 운영체제가 제공하는 파일 시스템 상에서 데이터가 어떻게 관리되는가?
 
-1. [물리적 저장장치 구조](#)
+1. [물리적 저장장치 구조](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-1.md)
    
 2. [파일의 구성](#)
    
