@@ -2,7 +2,7 @@
 
 1. [물리적 저장장치 구조](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-1.md)
    
-2. [파일의 구성](#)
+2. [파일의 구성](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-2.md)
    
 3. [고정 길이 레코드](#)
 
