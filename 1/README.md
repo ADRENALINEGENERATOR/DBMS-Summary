@@ -6,7 +6,7 @@
    
 3. [고정 길이 레코드](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-3.md)
 
-4. [가변 길이 레코드](#)
+4. [가변 길이 레코드](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-4.md)
 
 5. [파일 구조](#)
 
