@@ -8,6 +8,6 @@
 
 4. [가변 길이 레코드](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-4.md)
 
-5. [파일 구조](#)
+5. [파일 구조](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-5.md)
 
 6. [저장장치 접근](#)
