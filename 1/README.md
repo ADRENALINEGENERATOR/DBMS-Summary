@@ -10,4 +10,4 @@
 
 5. [파일 구조](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-5.md)
 
-6. [저장장치 접근](#)
+6. [저장장치 접근](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/1/1-6.md)
