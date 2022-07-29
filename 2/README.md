@@ -6,7 +6,7 @@
 
 3. [밀집과 희소 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-3.md)
 
-4. [다단계 인덱스](#)
+4. [다단계 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-4.md)
 
 5. [B + Tree 인덱스](#)
 
