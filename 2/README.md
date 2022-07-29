@@ -2,9 +2,9 @@
 
 1. [인덱싱이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-1.md)
 
-2. [순서 인덱스](#)
+2. [순서 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-2.md)
 
-3. [밀집과 희소 인덱스](#)
+3. [밀집과 희소 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-3.md)
 
 4. [다단계 인덱스](#)
 
