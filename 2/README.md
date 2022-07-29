@@ -1,6 +1,6 @@
 # 인덱스에 대한 기초적인 개념 및 구조와 특징이란?
 
-1. [인덱싱이란?](#)
+1. [인덱싱이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-1.md)
 
 2. [순서 인덱스](#)
 
