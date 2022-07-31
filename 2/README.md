@@ -8,7 +8,7 @@
 
 4. [다단계 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-4.md)
 
-5. [B + Tree 인덱스](#)
+5. [B + Tree 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-5.md)
 
 6.  [B + Tree 구조](#)
 
