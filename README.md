@@ -1,4 +1,4 @@
-# DMBS-Summary
+# DBMS-Summary
 
 1. [물리적 관점에서 저장장치 및 운영체제가 제공하는 파일 시스템 상에서 데이터가 어떻게 관리되는가?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/tree/main/1)
 
