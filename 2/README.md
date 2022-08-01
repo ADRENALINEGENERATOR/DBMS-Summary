@@ -12,7 +12,7 @@
 
 6.  [B + Tree 구조](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-6.md)
 
-7.  [B + Tree 에서 검색 연산](#)
+7.  [B + Tree 에서 검색 연산](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-7.md)
 
 8.  [B + Tree 에서 삽입 연산](#)
 
