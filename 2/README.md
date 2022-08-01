@@ -10,7 +10,7 @@
 
 5. [B + Tree 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-5.md)
 
-6.  [B + Tree 구조](#)
+6.  [B + Tree 구조](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-6.md)
 
 7.  [B + Tree 에서 검색, 삽입, 삭제 연산](#)
 
