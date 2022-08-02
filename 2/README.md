@@ -14,7 +14,7 @@
 
 7.  [B + Tree 에서 검색 연산](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-7.md)
 
-8.  [B + Tree 에서 삽입 연산](#)
+8.  [B + Tree 에서 삽입 연산](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-8.md)
 
 9.  [B + Tree 에서 삭제 연산](#)
 
