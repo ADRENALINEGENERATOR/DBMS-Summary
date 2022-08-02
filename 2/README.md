@@ -16,7 +16,7 @@
 
 8.  [B + Tree 에서 삽입 연산](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-8.md)
 
-9.  [B + Tree 에서 삭제 연산](#)
+9.  [B + Tree 에서 삭제 연산](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-9.md)
 
 10. [해싱 이란?](#)
 
