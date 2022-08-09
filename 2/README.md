@@ -20,7 +20,7 @@
 
 10. [해싱 이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-10.md)
 
-11. [정적 해싱](#)
+11. [정적 해싱](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-11.md)
 
 12. [해시 함수](#)
 
