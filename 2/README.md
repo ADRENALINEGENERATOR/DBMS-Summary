@@ -26,8 +26,6 @@
 
 13. [해시 인덱스](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-13.md)
 
-14. [동적 해싱](#)
-
-15. [비트맵 인덱스](#)
+14. [동적 해싱](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/2/2-14.md)
 
 
