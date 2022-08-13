@@ -2,7 +2,7 @@
 
 1. [트랜잭션이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-1.md)
 
-2. [트랜잭션의 특징](#)
+2. [트랜잭션의 특징](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-2.md)
 
 3. [트랜잭션의 동작 방식](#)
 
