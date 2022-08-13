@@ -1,6 +1,6 @@
 # 트랜잭션의 개념, 충돌, 직렬성, 회복성이란?
 
-1. [트랜잭션이란?](#)
+1. [트랜잭션이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-1.md)
 
 2. [트랜잭션의 특징](#)
 
