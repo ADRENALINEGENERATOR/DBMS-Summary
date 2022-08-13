@@ -4,6 +4,6 @@
 
 2. [인덱스에 대한 기초적인 개념 및 구조와 특징이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/tree/main/2)
 
-3. [트랜잭션의 개념, 충돌, 직렬성, 회복성이란?](#)
+3. [트랜잭션의 개념, 충돌, 직렬성, 회복성이란?](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/tree/main/3)
 
 4. [회복 시스템에서 사용되는 기술과 동작 원리란?](#)
