@@ -6,7 +6,7 @@
 
 3. [트랜잭션의 동작 방식](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-3.md)
 
-4. [트랜잭션의 상태](#)
+4. [트랜잭션의 상태](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-4.md)
 
 5. [트랜잭션의 동시성](#)
 
