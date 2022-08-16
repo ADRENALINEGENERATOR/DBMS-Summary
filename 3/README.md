@@ -8,7 +8,7 @@
 
 4. [트랜잭션의 상태](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-4.md)
 
-5. [트랜잭션의 동시성](#)
+5. [트랜잭션의 동시성](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-5.md)
 
 6. [트랜잭션의 직렬화](#)
 
