@@ -12,7 +12,7 @@
 
 6. [트랜잭션의 직렬화](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-6.md)
 
-7.  [트랜잭션의 회복화](#)
+7.  [트랜잭션의 회복화](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-7.md)
 
 8.  [동시성 제어](#)
 
