@@ -16,7 +16,7 @@
 
 8.  [동시성 제어](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-8.md)
 
-9.  [락 기반 규약](#)
+9.  [락 기반 규약](https://github.com/ADRENALINEGENERATOR/DBMS-Summary/blob/main/3/3-9.md)
 
 10. [2단계 락킹 규약](#)
 
